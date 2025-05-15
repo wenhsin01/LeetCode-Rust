@@ -99,24 +99,26 @@ target=9
 ### Input
 
 ```rust
-[4,3,2,1]
+nums=[3,2,4]
+target=6
 ```
 
 ### Output
 
 ```rust
-[4,3,2,2]
+[1,2]
 ```
 
 ## Case3
 ### Input
 
 ```rust
-[9]
+nums=[3,3]
+target=6
 ```
 
 ### Output
 
 ```rust
-[1,0]
+[0,1]
 ```
