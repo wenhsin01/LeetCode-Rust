@@ -85,13 +85,14 @@ impl Solution {
 ### Input
 
 ```rust
-[2,7,11,15]
+nums=[2,7,11,15]
+target=9
 ```
 
 ### Output
 
 ```rust
-[1,2,4]
+[0,1]
 ```
 
 ## Case2
